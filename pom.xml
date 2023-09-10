@@ -19,6 +19,7 @@
         <module>coupon-template-serv/coupon-template-api</module>
         <module>coupon-calulation-serv</module>
         <module>coupon-customer-ser</module>
+        <module>coupon-middleware-serv</module>
     </modules>
     <packaging>pom</packaging>
 
