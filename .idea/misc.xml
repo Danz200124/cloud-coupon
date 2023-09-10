@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/coupon-template-serv/coupon-template-api/pom.xml" />
+        <option value="$PROJECT_DIR$/coupon-calulation-serv/coupon-calulation-api/pom.xml" />
+        <option value="$PROJECT_DIR$/coupon-middleware-serv/pom.xml" />
       </list>
     </option>
   </component>
